@@ -1,4 +1,4 @@
-# Finance Performance Dashboard – Power BI + SQL Server
+# Finance Analytics Dashboard – Power BI + SQL Server
 
 This project showcases a finance analytics dashboard built in Power BI, powered by SQL Server for data modeling and ETL. It provides executives and finance teams with real-time visibility into key metrics, budget performance, and cash flow trends.
 
