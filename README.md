@@ -16,7 +16,7 @@ This project showcases a finance analytics dashboard built in Power BI, powered 
 ## 📁 Included Files
 - `Finance_Dashboard.pbix`: Full Power BI dashboard
 - `Finance_Dashboard_Summary.pdf`: Presentation for stakeholders
-- `AdventureWorksDW2022.bak`: SQL Database using to get Sample datasets
+- `[AdventureWorksDW2022.bak](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver17&tabs=ssms)`: SQL Database to get data
 
 ## 💡 Business Applications
 - Executive reporting and financial planning
